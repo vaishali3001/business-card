@@ -1,0 +1,31 @@
+body{
+    margin: 20px;
+}
+
+
+.avatar{
+    width: 150px;
+    animation-name: initial;
+    
+}
+
+.card{
+width: 500px;
+    margin: 0px auto;
+    border: 1px dotted blue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color:  #ddebf8;
+    border-bottom: 20px solid #d8cefe;
+    text-align: center;
+    color: #2b2839;
+    ;
+
+   
+}
+
+
+.border-blue{
+    text-align: center;
+}
